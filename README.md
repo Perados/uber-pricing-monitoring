@@ -1,2 +1,2 @@
 # uber-pricing-monitoring
-https://thetravelinghacker.io/posts/4
+Source code for the Python part of my 4th blog post : https://thetravelinghacker.io/posts/4
